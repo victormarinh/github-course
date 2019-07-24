@@ -1,4 +1,3 @@
 #Github
 
-Arquivo para o treinamento de git e github, estudos de desenvolvedor
-Cada vez mais melhoramos
+Arquivo para o treinamento de git e github, estudando para ser um melhor desenvolvedor de software. Melhorando a cada dia!
